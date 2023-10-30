@@ -10,8 +10,7 @@ This tutorial outlines the prerequisites and tutorial of creating a resource gro
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Microsoft Azure
 
 <h2>Operating Systems Used </h2>
 
@@ -20,7 +19,7 @@ This tutorial outlines the prerequisites and tutorial of creating a resource gro
 <h2>List of Prerequisites</h2>
 
 - Created a subscription in Microsoft Azure
-- Login creditials made
+- Microsoft login credentials 
 
 <h2>Installation Steps</h2>
 
