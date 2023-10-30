@@ -1,5 +1,5 @@
 # azure-resource-groups
-<img src="https://imgur.com/a/ox8TLH8" alt="Microsoft Azure Logo/>
+<img src="[https://imgur.com/a/ox8TLH](https://imgur.com/kzAPMZw)8" alt="Microsoft Azure Logo"/>
 <h1>Microsoft Azure: Resource Groups and Storage Account - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and tutorial of creating a resource group and storage account in Azure. <br />
 
