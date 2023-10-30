@@ -1,7 +1,7 @@
 # azure-resource-groups
 <p align="center">
   
-<img src="https://imgur.com/Qt5Ddgu"/>
+<img src="[img]https://i.imgur.com/Qt5Ddgu.jpg[/img]"/>
 
 </p>
 
