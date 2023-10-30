@@ -1,6 +1,6 @@
 # azure-resource-groups
 <p align="center">
-<img src="https://imgur.com/Qt5Ddgu"/>
+<img src="https://imgur.com/Qt5Ddgu"alt="osTicket logo"/>
 </p>
 
 <h1>Microsoft Azure: Resource Groups and Storage Account - Prerequisites and Installation</h1>
