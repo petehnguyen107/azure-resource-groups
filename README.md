@@ -17,10 +17,7 @@ This tutorial outlines the prerequisites and tutorial of creating a resource gro
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Created a subscription in Microsoft Azure
+- Login creditials made
 
 <h2>Installation Steps</h2>
