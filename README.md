@@ -1,6 +1,8 @@
 # azure-resource-groups
 <p align="center">
+  
 <img src="https://imgur.com/Qt5Ddgu"/>
+
 </p>
 
 <h1>Microsoft Azure: Resource Groups and Storage Account - Prerequisites and Installation</h1>
@@ -23,12 +25,12 @@ This tutorial outlines the prerequisites and tutorial of creating a resource gro
 <h2>Installation Steps</h2>
 
 <ol>
-<li>1. Within the Azure Portal, Create a Resource Group. </li>
-<li>2. Create a Storage Account within the Resource Group created in Step 1. </li> 
-<li>3. Create a file on your local desktop and upload it into the Storage Account.</li>
-<li>4. Edit the file within the Storage Account (within the Azure Portal). </li>
-<li>5. Download the file and observe the changes.</li>
-<li>6. Delete the Resource Group created in step 1 (in order to ensure you don’t incur “cost”).</li>
-<li>7. Verify that the Resource Group has been deleted. </li>  
+<li>Within the Azure Portal, Create a Resource Group. </li>
+<li>Create a Storage Account within the Resource Group created in Step 1. </li> 
+<li>Create a file on your local desktop and upload it into the Storage Account.</li>
+<li>Edit the file within the Storage Account (within the Azure Portal). </li>
+<li>Download the file and observe the changes.</li>
+<li>Delete the Resource Group created in step 1 (in order to ensure you don’t incur “cost”).</li>
+<li>Verify that the Resource Group has been deleted. </li>  
 </ol>
 
