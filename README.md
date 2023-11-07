@@ -1,7 +1,7 @@
 # azure-resource-groups
 <p align="center">
   
-<img src="https://i.imgur.com/57A3Bw5.jpg" width="900" height="350" alt=Microsoft Azure Resource Groups/>
+<img src="https://i.imgur.com/57A3Bw5.jpg" width=80% height=80% alt=Microsoft Azure Resource Groups/>
 
 </p>
 
