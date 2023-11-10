@@ -1,12 +1,12 @@
 # azure-resource-groups
 <p align="center">
   
-<img src="https://i.imgur.com/57A3Bw5.jpg" width=80% height=80% alt=Microsoft Azure Resource Groups/>
+<img src="https://i.imgur.com/57A3Bw5.jpg" width=70% height=70% alt=Microsoft Azure Resource Groups/>
 
 </p>
 
 <h1>Microsoft Azure: Resource Groups and Storage Account - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and tutorial of creating a resource group and storage account in Azure. <br />
+This tutorial outlines the prerequisites and tutorial of creating a resource group and storage account in Azure. Why are resource groups and storage accounts important in Azure? A resource group is like a container or folder that you can use to organize different things you create in Azure, like virtual machines, storage accounts, and databases. It helps you manage and make changes to related resources. A storage account is a place where you can store data in Azure, like files and tables. It provides a unique name for your data and makes it accessible from anywhere in the world. It's important because it provides a dependable, scalable, and secure method of storing and accessing data in the cloud. <br />
 
 <h2>Environments and Technologies Used</h2>
 
